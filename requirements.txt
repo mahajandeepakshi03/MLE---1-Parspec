@@ -1,0 +1,5 @@
+pandas
+nltk
+PyMuPDF
+scikit-learn
+joblib
