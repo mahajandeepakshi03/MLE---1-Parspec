@@ -1,12 +1,12 @@
-# Steps : 
+## Steps : 
 
 1. git clone <repo_link>
-2. cd classification
+2. cd <folder_name>
 3. pip install -r requirements.txt
 4. python3 <script_name>.py
 
 
-# This repo contains 4 scripts : 
+## This repo contains 4 scripts : 
 
 1. data_extraction.py : To extract the data from the url of the given pdf. To execute it : 
 
